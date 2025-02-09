@@ -1,4 +1,6 @@
 **👋 조현진이라고 합니다. 잘 부탁드립니다! 👋**
+<br>
+**👋 My name is CHO, HYUN JIN. Nice to meet you! 👋**
 
 ## 😊약력
 * 연세대학교 시스템생물학과 (2021~)
@@ -7,6 +9,17 @@
 * 프로메테우스 인공지능 연합 동아리 일반 부원 (2024.08.31~2025.02.22)
 * 연세대학교 시스템생물정보학 연구실 인턴 (2024.12.30~)
 * 프로메테우스 인공지능 연합 동아리 부대표 (2025.02.22~)
+
+<br>
+<br>
+
+* Yonsei University System Biology (2021~)
+* Yonsei University Computer Science Double Major (2022~)
+* KATUSA (2022.11.21~2024.05.20)
+* Prometheus AI Club Member (2024.08.31~2025.02.22)
+* Yonsei Systems Biology & Bioinformatics Laboratory(SBBL) Intern (2024.12.30~)
+* Prometheus AI Club Vice President (2025.02.22~)
+
 
 ## 🗒관심 분야
 
