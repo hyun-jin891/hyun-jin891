@@ -1,4 +1,4 @@
-![python](https://github.com/user-attachments/assets/a068ac2c-7976-4745-912b-2afe52238231)**조현진이라고 합니다. 잘 부탁드립니다! 👋**
+**조현진이라고 합니다. 잘 부탁드립니다! 👋**
 
 ## 😊약력
 * 연세대학교 시스템생물학과 (2021~)
@@ -32,6 +32,10 @@ Bioinformatics
 
 ## 💻기술 스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 <!--
 **hyun-jin891/hyun-jin891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
