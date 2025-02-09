@@ -2,13 +2,13 @@
 <br>
 **👋 My name is CHO, HYUN JIN. Nice to meet you! 👋**
 
-## 😊약력
+## 😊Bio
 * 연세대학교 시스템생물학과 (2021~)
 * 연세대학교 컴퓨터과학과 복수전공 (2022~)
 * 카투사 복무 (2022.11.21~2024.05.20)
-* [Prometheus](https://prometheus-ai.net/) 인공지능 연합 동아리 일반 부원 (2024.08.31~2025.02.22)
+* [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 일반 부원 (2024.08.31~2025.02.22)
 * 연세대학교 시스템생물정보학 연구실([SBBL](https://www.sbblaboratory.com/)) 인턴 (2024.12.30~)
-* [Prometheus](https://prometheus-ai.net/) 인공지능 연합 동아리 부대표 (2025.02.22~)
+* [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 부대표 (2025.02.22~)
 
 <br>
 <br>
@@ -21,7 +21,7 @@
 * [Prometheus](https://prometheus-ai.net/) AI Club Vice President (2025.02.22~)
 
 
-## 🗒관심 분야
+## 🧬Field of interest
 
 ~~~
 Bioinformatics
@@ -40,10 +40,44 @@ Bioinformatics
 │   └── Machine Learning & Deep Learning
 ~~~
 
+## 🗒Related Courses
+* 일반생물학 1 - General Biology I (B.S. 1-1)
+* SW 프로그래밍 - SW Programming (B.S. 1-1)
+* 일반생물학 2 - General Biology II (B.S. 1-2)
+* 컴퓨터시스템과 피지컬 컴퓨팅 - Computer System And Physical Computing (B.S. 1-2)
+* 유전학 - Genetics (B.S. 2-1)
+* 세포생물학 1 - Cell Biology 1 (B.S. 2-1)
+* 미생물학 - Microbiology (B.S. 2-1)
+* 객체지향프로그래밍 - Object-oriented Programming (B.S. 2-1)
+* 통계학 입문 - Introduction To Statistics (B.S. 2-1)
+* 컴퓨터과학 입문 - Introduction To Computer Science (B.S. summer)
+* 분자생물학 - Molecular Biology (B.S. 2-2)
+* 자료구조 - Data Structure (B.S. 2-2)
+* 분자암생물학 - Molecular Cancer Biology (B.S. 2-2)
+* 세포생물학 2 - Cell Biology 2 (B.S. 2-2)
+* 인공지능 알고리즘 - Artificial Intelligence Algorithm (B.S. 2-2)
+* 논리회로설계 - Logic Circuit Design (B.S. 2-2)
+* 컴파일러설계 - Compiler Design (B.S. 2-2)
+* 식물분자생리학 - Plant Molecular Physiology (planning)
+* 시스템생명정보학 - Systems Biology and Bioinformatics (planning)
+* 자연어 처리 - Natural Language Processing (planning)
+* 기계학습 - Machine Learning (planning)
+* 운영체제 - Operating System (planning)
+* 거대언어모델 - Large Language Model (planning)
+* 통계방법론 - Statistical Method (planning)
+* 분자생화학 - Molecular Biochemistry (planning)
+* 동물생리학 - Animal Physiology (planning)
+* 발생학 - Developmental Biology (planning)
+* 선형대수 - Linear Algebra (planning)
+* 컴퓨터비전 - Computer Vision (planning)
+* 후성유전학 입문 - Introduction to Epigenetics (planning)
+* 면역학 - Immunology (planning)
+* 생물리학 - Biophysics (planning)
+* 컴퓨터아키텍처 - Computer Architecture (planning)
+* 멀티코어GPU프로그래밍 - Multicore GPU Programming (planning)
 
 
-
-## 💻기술 스택
+## 💻Tech Stack
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
