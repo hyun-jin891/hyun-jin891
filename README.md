@@ -6,7 +6,7 @@
 * 연세대학교 시스템생물학과 (2021~)
 * 연세대학교 컴퓨터과학과 복수전공 (2022~)
 * 카투사 복무 (2022.11.21~2024.05.20)
-* 프로메테우스 인공지능 연합 동아리 일반 부원 (2024.08.31~2025.02.22)
+* [Prometheus](https://prometheus-ai.net/) 인공지능 연합 동아리 일반 부원 (2024.08.31~2025.02.22)
 * 연세대학교 시스템생물정보학 연구실([SBBL](https://www.sbblaboratory.com/)) 인턴 (2024.12.30~)
 * [Prometheus](https://prometheus-ai.net/) 인공지능 연합 동아리 부대표 (2025.02.22~)
 
@@ -16,7 +16,7 @@
 * Yonsei University System Biology (2021~)
 * Yonsei University Computer Science Double Major (2022~)
 * KATUSA (2022.11.21~2024.05.20)
-* Prometheus AI Club Member (2024.08.31~2025.02.22)
+* [Prometheus](https://prometheus-ai.net/) AI Club Member (2024.08.31~2025.02.22)
 * Yonsei Systems Biology & Bioinformatics Laboratory([SBBL](https://www.sbblaboratory.com/)) Intern (2024.12.30~)
 * [Prometheus](https://prometheus-ai.net/) AI Club Vice President (2025.02.22~)
 
