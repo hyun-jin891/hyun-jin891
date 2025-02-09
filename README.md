@@ -9,6 +9,8 @@
 * 프로메테우스 인공지능 연합 동아리 부대표 (2025.02.22~)
 
 ## 🗒관심 분야
+
+~~~
 Bioinformatics
 ├── Biology
 │   ├── Molecular Biology
@@ -23,6 +25,8 @@ Bioinformatics
 │   ├── Data Structure
 │   ├── Algorithm
 │   └── Machine Learning & Deep Learning
+~~~
+
 
 ## 💻기술 스택
 python
