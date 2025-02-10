@@ -76,6 +76,15 @@ Bioinformatics
 * 컴퓨터아키텍처 - Computer Architecture (planning)
 * 멀티코어GPU프로그래밍 - Multicore GPU Programming (planning)
 
+## 📖Book I Studied
+* Do it! 점프 투 파이썬 (Python Programming)
+* C++ 언어본색 (C++ Programming)
+* 파이썬 머신러닝 판다스 데이터 분석 (Pandas)
+* 혼자 공부하는 머신러닝 + 딥러닝 (Basic ML & DL)
+* 파이썬 머신러닝 완벽 가이드 (Machine Learning)
+* 선형대수와 통계학으로 배우는 머신러닝 with 파이썬 (Mathematics for ML)
+* 차근차근 실습하며 배우는 파이토치 딥러닝 프로그래밍 (Pytorch)
+* 처음 시작하는 FastAPI (FastAPI)
 
 ## 💻Tech Stack
 <div align=center> 
