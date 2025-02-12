@@ -72,7 +72,7 @@ Bioinformatics
 * 컴퓨터비전 - Computer Vision (planning)
 * 후성유전학 입문 - Introduction to Epigenetics (planning)
 * 면역학 - Immunology (planning)
-* 생물리학 - Biophysics (planning)
+* 생성 모델 - Generative Model (planning)
 * 컴퓨터아키텍처 - Computer Architecture (planning)
 * 멀티코어GPU프로그래밍 - Multicore GPU Programming (planning)
 
