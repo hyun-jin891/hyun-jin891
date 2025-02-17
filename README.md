@@ -69,6 +69,7 @@ Bioinformatics
 * 동물생리학 - Animal Physiology (planning)
 * 발생학 - Developmental Biology (planning)
 * 선형대수 - Linear Algebra (planning)
+* 멀티모달 딥러닝 기초 - Introduction to Multimodal Deep Learning (planning)
 * 컴퓨터비전 - Computer Vision (planning)
 * 데이터 프라이버시 - Data Privacy (planning)
 * 면역학 - Immunology (planning)
