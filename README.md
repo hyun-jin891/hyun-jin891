@@ -108,3 +108,10 @@ Bioinformatics
   
   
 </div>
+
+## Notes
+* 공부 기록은 블로그 [blog](https://hyun-jin891.github.io/)에서 개인 노션(private)으로 옮겼습니다!
+
+<br>
+
+* I change the platform for my notes of studying from blog to private notion 
