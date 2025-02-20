@@ -41,9 +41,6 @@ Bioinformatics
 |         ├── NLP
 |         ├── Multimodal
 |         └── Generative AI
-
-
-
 ~~~
 
 ## 🗒Related Courses
