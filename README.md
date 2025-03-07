@@ -67,7 +67,7 @@ Bioinformatics
 * **운영체제** - Operating System (B.S. 3-1)
 * **거대언어모델** - Large Language Model (B.S. 3-1)
 * **데이터 프라이버시** - Data Privacy (B.S. 3-1)
-* 자연어 처리 - Natural Language Processing (planning)
+* **자연어 처리** - Natural Language Processing (B.S. 3-1)
 * 통계방법론 - Statistical Method (planning)
 * 분자생화학 - Molecular Biochemistry (planning)
 * 동물생리학 - Animal Physiology (planning)
