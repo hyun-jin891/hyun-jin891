@@ -38,7 +38,7 @@ Bioinformatics
 │   ├── Data Structure
 │   ├── Algorithm
 │   └── Machine Learning & Deep Learning
-|         ├── NLP
+|         ├── Language Model
 |         ├── Multimodal
 |         └── Generative AI
 ~~~
