@@ -72,52 +72,11 @@ Bioinformatics
 * 동물생리학 - Animal Physiology (planning)
 * 발생학 - Developmental Biology (planning)
 * 선형대수 - Linear Algebra (planning)
-* 심층신경망   ├── Programming Language
-|   |     ├── Python
-|   |     ├── R
-│   ├── Data Structure
-│   ├── Algorithm
-│   └── Machine Learning & Deep Learning
-|         ├── Language Model
-|         ├── Multimodal
-|         └── Generative AI
-~~~
-
-## 🗒Related Courses
-* **일반생물학 1** - General Biology I (B.S. 1-1)
-* **SW 프로그래밍** - SW Programming (B.S. 1-1)
-* **일반생물학 2** - General Biology II (B.S. 1-2)
-* **컴퓨터시스템과 피지컬 컴퓨팅** - Computer System And Physical Computing (B.S. 1-2)
-* **유전학** - Genetics (B.S. 2-1)
-* **세포생물학 1** - Cell Biology 1 (B.S. 2-1)
-* **미생물학** - Microbiology (B.S. 2-1)
-* **객체지향프로그래밍** - Object-oriented Programming (B.S. 2-1)
-* **통계학 입문** - Introduction To Statistics (B.S. 2-1)
-* **컴퓨터과학 입문** - Introduction To Computer Science (B.S. summer)
-* **분자생물학** - Molecular Biology (B.S. 2-2)
-* **자료구조** - Data Structure (B.S. 2-2)
-* **분자암생물학** - Molecular Cancer Biology (B.S. 2-2)
-* **세포생물학 2** - Cell Biology 2 (B.S. 2-2)
-* **인공지능 알고리즘** - Artificial Intelligence Algorithm (B.S. 2-2)
-* **논리회로설계** - Logic Circuit Design (B.S. 2-2)
-* **컴파일러설계** - Compiler Design (B.S. 2-2)
-* **식물분자생리학** - Plant Molecular Physiology (B.S. 3-1)
-* **시스템생명정보학** - Systems Biology and Bioinformatics (B.S. 3-1)
-* **기계학습** - Machine Learning (B.S. 3-1)
-* **운영체제** - Operating System (B.S. 3-1)
-* **거대언어모델** - Large Language Model (B.S. 3-1)
-* **데이터 프라이버시** - Data Privacy (B.S. 3-1)
-* **자연어 처리** - Natural Language Processing (B.S. 3-1)
-* 분자생화학 - Molecular Biochemistry (planning)
-* 동물생리학 - Animal Physiology (planning)
-* 발생학 - Developmental Biology (planning)
-* 선형대수 - Linear Algebra (planning)
 * 심층신경망 - Deep Neural Network (planning)
 * 컴퓨터비전 - Computer Vision (planning)
 * 면역학 - Immunology (planning)
 * 강화학습 - Reinforcement Learning (planning)
 * 컴퓨터아키텍처 - Computer Architecture (planning)
-* 멀티코어GPU프로그래밍 - Multicore GPU Programming (planning)
 
 ## 💻Tech Stack
 <div align=center> 
