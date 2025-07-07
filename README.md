@@ -68,15 +68,15 @@ Bioinformatics
 * **거대언어모델** - Large Language Model (B.S. 3-1)
 * **데이터 프라이버시** - Data Privacy (B.S. 3-1)
 * **자연어 처리** - Natural Language Processing (B.S. 3-1)
-* 분자생화학 - Molecular Biochemistry (planning)
-* 동물생리학 - Animal Physiology (planning)
-* 발생학 - Developmental Biology (planning)
-* 선형대수 - Linear Algebra (planning)
-* 심층신경망 - Deep Neural Network (planning)
-* 컴퓨터비전 - Computer Vision (planning)
+* 분자생화학 - Molecular Biochemistry (B.S. 3-2)
+* 동물생리학 - Animal Physiology (B.S. 3-2)
+* 발생학 - Developmental Biology (B.S. 3-2)
+* 심층신경망 - Deep Neural Network (B.S. 3-2)
+* 컴퓨터비전 - Computer Vision (B.S. 3-2)
+* 분산학습 및 추론 - Distributed Learning and Inference (B.S. 3-2)
 * 면역학 - Immunology (planning)
 * 강화학습 - Reinforcement Learning (planning)
-* 컴퓨터아키텍처 - Computer Architecture (planning)
+* 선형대수 - Linear Algebra (planning)
 
 ## 💻Tech Stack
 <div align=center> 
