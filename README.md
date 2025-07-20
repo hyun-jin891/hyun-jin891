@@ -35,12 +35,10 @@ Bioinformatics
 │   ├── Programming Language
 |   |     ├── Python
 |   |     ├── R
-│   ├── Data Structure
-│   ├── Algorithm
 │   └── Machine Learning & Deep Learning
-|         ├── Language Model
-|         ├── Multimodal
-|         └── Generative AI
+|         ├── Large Language Model for Omics Analysis
+|         ├── Development of Model for Omics Analysis
+|         └── Generative AI for augmentation of Omics Data
 ~~~
 
 ## 🗒Related Courses
