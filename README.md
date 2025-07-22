@@ -14,7 +14,6 @@
 
 * Yonsei University System Biology (2021~)
 * Yonsei University Computer Science Double Major (2022~)
-* KATUSA (2022.11.21~2024.05.20)
 * [Prometheus](https://prometheus-ai.net/) AI Club Member (2024.08.31~2025.02.22)
 * Yonsei Systems Biology & Bioinformatics Laboratory([SBBL](https://www.sbblaboratory.com/)) Intern (2024.12.30~)
 * [Prometheus](https://prometheus-ai.net/) AI Club Vice President (2025.02.22~)
