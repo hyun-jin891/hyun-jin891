@@ -7,7 +7,8 @@
 * 연세대학교 컴퓨터과학과 복수전공 (2022~)
 * [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 일반 부원 (2024.08.31~2025.02.22)
 * 연세대학교 시스템생물정보학 연구실([SBBL](https://www.sbblaboratory.com/)) 학부 연구생 (2024.12.30~)
-* [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 부대표 (2025.02.22~)
+* [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 부대표 (2025.02.22~2025.08.23)
+* [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 대표 (2025.08.23~)
 
 <br>
 <br>
@@ -16,7 +17,8 @@
 * Yonsei University Computer Science Double Major (2022~)
 * [Prometheus](https://prometheus-ai.net/) AI Club Member (2024.08.31~2025.02.22)
 * Yonsei Systems Biology & Bioinformatics Laboratory([SBBL](https://www.sbblaboratory.com/)) Intern (2024.12.30~)
-* [Prometheus](https://prometheus-ai.net/) AI Club Vice President (2025.02.22~)
+* [Prometheus](https://prometheus-ai.net/) AI Club Vice President (2025.02.22~2025.08.23)
+* [Prometheus](https://prometheus-ai.net/) AI Club President (2025.08.23~)
 
 
 ## 🧬Field of interest
