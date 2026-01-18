@@ -8,7 +8,7 @@
 * [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 일반 부원 (2024.08.31~2025.02.22)
 * 연세대학교 시스템생물정보학 연구실([SBBL](https://www.sbblaboratory.com/)) 학부 연구생 (2024.12.30~)
 * [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 부대표 (2025.02.22~2025.08.23)
-* [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 대표 (2025.08.23~)
+* [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 대표 (2025.08.23~2026.02.07)
 
 <br>
 <br>
@@ -18,7 +18,7 @@
 * [Prometheus](https://prometheus-ai.net/) AI Club Member (2024.08.31~2025.02.22)
 * Yonsei Systems Biology & Bioinformatics Laboratory([SBBL](https://www.sbblaboratory.com/)) Intern (2024.12.30~)
 * [Prometheus](https://prometheus-ai.net/) AI Club Vice President (2025.02.22~2025.08.23)
-* [Prometheus](https://prometheus-ai.net/) AI Club President (2025.08.23~)
+* [Prometheus](https://prometheus-ai.net/) AI Club President (2025.08.23~2026.02.07)
 
 
 ## 🧬Field of interest
@@ -72,9 +72,10 @@ Bioinformatics
 * **심층신경망** - Deep Neural Network (B.S. 3-2)
 * **컴퓨터비전** - Computer Vision (B.S. 3-2)
 * **분산학습 및 추론** - Distributed Learning and Inference (B.S. 3-2)
-* 면역학 - Immunology (planning)
 * 강화학습 - Reinforcement Learning (planning)
 * 선형대수 - Linear Algebra (planning)
+* 확률론 - Probability Theory (planning)
+* 유전체학 - Genomics (planning)
 
 ## 💻Tech Stack
 <div align=center> 
