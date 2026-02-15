@@ -6,7 +6,7 @@
 * 연세대학교 시스템생물학과 (2021~)
 * 연세대학교 컴퓨터과학과 복수전공 (2022~)
 * [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 일반 부원 (2024.08.31~2025.02.22)
-* 연세대학교 시스템생물정보학 연구실([SBBL](https://www.sbblaboratory.com/)) 학부 연구생 (2024.12.30~)
+* 연세대학교 시스템생물정보학 연구실([SBBL](https://www.sbblaboratory.com/)) 학사/석사/박사 통합 과정 (2024.12.30~)
 * [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 부대표 (2025.02.22~2025.08.23)
 * [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 대표 (2025.08.23~2026.02.07)
 
