@@ -72,10 +72,10 @@ Bioinformatics
 * **심층신경망** - Deep Neural Network (B.S. 3-2)
 * **컴퓨터비전** - Computer Vision (B.S. 3-2)
 * **분산학습 및 추론** - Distributed Learning and Inference (B.S. 3-2)
-* 강화학습 - Reinforcement Learning (planning)
-* 선형대수 - Linear Algebra (planning)
-* 확률론 - Probability Theory (planning)
-* 유전체학 - Genomics (planning)
+* **강화학습** - Reinforcement Learning (B.S. 4-1)
+* **선형대수와 그응용** - Linear Algebra & Application (B.S. 4-1)
+* **확률론** - Probability Theory (B.S. 4-1)
+* **유전체학** - Genomics (B.S. 4-1)
 
 ## 💻Tech Stack
 <div align=center> 
