@@ -16,7 +16,7 @@
 * Yonsei University System Biology (2021~)
 * Yonsei University Computer Science Double Major (2022~)
 * [Prometheus](https://prometheus-ai.net/) AI Club Member (2024.08.31~2025.02.22)
-* Yonsei Systems Biology & Bioinformatics Laboratory([SBBL](https://www.sbblaboratory.com/)) Intern (2024.12.30~)
+* Yonsei Systems Biology & Bioinformatics Laboratory([SBBL](https://www.sbblaboratory.com/)) B.S./M.S./PH.D. Integrated Course (2024.12.30~)
 * [Prometheus](https://prometheus-ai.net/) AI Club Vice President (2025.02.22~2025.08.23)
 * [Prometheus](https://prometheus-ai.net/) AI Club President (2025.08.23~2026.02.07)
 
