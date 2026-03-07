@@ -37,6 +37,7 @@ Bioinformatics
 |   |     ├── R
 │   └── Machine Learning & Deep Learning
 |         ├── Large Language Model for Omics Analysis
+|         ├── LLM Agent for Biology
 |         ├── Development of Model for Omics Analysis
 |         └── Generative AI for augmentation of Omics Data
 ~~~
