@@ -26,20 +26,17 @@
 ~~~
 Bioinformatics
 ├── Biology
-│   ├── Molecular Biology
+│   ├── Omics
 │   ├── Cell Biology
 |   ├── Cancer Biology
-|   ├── Epigenetics
-│   └── RNA-seq
+│   └── Epigenetics
 ├── Computer Science
 │   ├── Programming Language
 |   |     ├── Python
 |   |     ├── R
 │   └── Machine Learning & Deep Learning
-|         ├── Large Language Model for Omics Analysis
-|         ├── LLM Agent for Biology
 |         ├── Development of Model for Omics Analysis
-|         └── Generative AI for augmentation of Omics Data
+|         └── LLM Agent for Science
 ~~~
 
 ## 🗒Related Courses
