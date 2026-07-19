@@ -3,8 +3,8 @@
 **👋 My name is CHO, HYUN JIN. Nice to meet you! 👋**
 
 ## 😊Bio
-* 연세대학교 시스템생물학과 (2021~2026.08.27)
-* 연세대학교 컴퓨터과학과 복수전공 (2022~2026.08.27)
+* 연세대학교 시스템생물학과 (2021~2026.08.28)
+* 연세대학교 컴퓨터과학과 복수전공 (2022~2026.08.28)
 * [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 일반 부원 (2024.08.31~2025.02.22)
 * [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 부대표 (2025.02.22~2025.08.23)
 * [Prometheus](https://prometheus-ai.net/) 인공지능 대학생 연합 동아리 대표 (2025.08.23~2026.02.07)
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-* Yonsei University System Biology (2021~)
+* Yonsei University System Biology (2021~2026.08.28)
 * Yonsei University Computer Science Double Major (2022~)
 * [Prometheus](https://prometheus-ai.net/) AI Club Member (2024.08.31~2025.02.22)
 * [Prometheus](https://prometheus-ai.net/) AI Club Vice President (2025.02.22~2025.08.23)
