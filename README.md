@@ -14,7 +14,7 @@
 <br>
 
 * Yonsei University System Biology (2021~2026.08.28)
-* Yonsei University Computer Science Double Major (2022~)
+* Yonsei University Computer Science Double Major (2022~2026.08.28)
 * [Prometheus](https://prometheus-ai.net/) AI Club Member (2024.08.31~2025.02.22)
 * [Prometheus](https://prometheus-ai.net/) AI Club Vice President (2025.02.22~2025.08.23)
 * [Prometheus](https://prometheus-ai.net/) AI Club President (2025.08.23~2026.02.07)
