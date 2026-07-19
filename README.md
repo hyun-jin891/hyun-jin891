@@ -1,6 +1,4 @@
-**👋 조현진이라고 합니다. 잘 부탁드립니다! 👋**
-<br>
-**👋 My name is CHO, HYUN JIN. Nice to meet you! 👋**
+**👋 My name is HYUNJIN CHO. Nice to meet you! 👋**
 
 ## 😊Bio
 * 연세대학교 시스템생물학과 (2021~2026.08.28)
@@ -24,8 +22,8 @@
 ## 🧬Field of interest
 
 ~~~
-Bioinformatics
-├── Biology
+Field of Interest
+├── Bioinformatics & Biology
 │   ├── Omics
 │   ├── Cell Biology
 |   ├── Cancer Biology
@@ -36,7 +34,8 @@ Bioinformatics
 |   |     ├── R
 │   └── Machine Learning & Deep Learning
 |         ├── Development of Model for Omics Analysis
-|         └── LLM Agent for Science
+|         ├── LLM Agent for Omics
+|         └── AI for Science
 ~~~
 
 ## 🗒Related Courses
