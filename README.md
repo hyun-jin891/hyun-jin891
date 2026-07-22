@@ -26,6 +26,7 @@ Field of Interest
 ├── Bioinformatics & Biology
 │   ├── Omics
 │   ├── Cell Biology
+│   ├── Plant Biology and Omics
 |   ├── Cancer Biology
 │   └── Epigenetics
 ├── Computer Science
