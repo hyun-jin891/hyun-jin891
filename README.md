@@ -9,6 +9,8 @@
 * [Prometheus](https://prometheus-ai.net/) AI Club President (2025.08.23~2026.02.07)
 * Yonsei Systems Biology & Bioinformatics Laboratory([SBBL](https://www.sbblaboratory.com/)) B.S./M.S./PH.D. Integrated Course (2024.12.30~)
 
+[Resume](https://hyun-jin891.github.io/Resume/)
+
 
 ## 🧬Field of interest
 
@@ -30,41 +32,6 @@ Field of Interest
 |         └── AI for Science
 ~~~
 
-## 🗒Related Courses
-* **General Biology I** (B.S. 1-1)
-* **SW Programming** (B.S. 1-1)
-* **General Biology II** (B.S. 1-2)
-* **Computer System And Physical Computing** (B.S. 1-2)
-* **Genetics** (B.S. 2-1)
-* **Cell Biology 1** (B.S. 2-1)
-* **Microbiology** (B.S. 2-1)
-* **Object-oriented Programming** (B.S. 2-1)
-* **Introduction To Statistics** (B.S. 2-1)
-* **Introduction To Computer Science** (B.S. summer)
-* **Molecular Biology** (B.S. 2-2)
-* **Data Structure** (B.S. 2-2)
-* **Molecular Cancer Biology** (B.S. 2-2)
-* **Cell Biology 2** (B.S. 2-2)
-* **Artificial Intelligence Algorithm** (B.S. 2-2)
-* **Logic Circuit Design** (B.S. 2-2)
-* **Compiler Design** (B.S. 2-2)
-* **Plant Molecular Physiology** (B.S. 3-1)
-* **Systems Biology and Bioinformatics** (B.S. 3-1)
-* **Machine Learning** (B.S. 3-1)
-* **Operating System** (B.S. 3-1)
-* **Large Language Model** (B.S. 3-1)
-* **Data Privacy** (B.S. 3-1)
-* **Natural Language Processing** (B.S. 3-1)
-* **Molecular Biochemistry** (B.S. 3-2)
-* **Animal Physiology** (B.S. 3-2)
-* **Developmental Biology** (B.S. 3-2)
-* **Deep Neural Network** (B.S. 3-2)
-* **Computer Vision** (B.S. 3-2)
-* **Distributed Learning and Inference** (B.S. 3-2)
-* **Reinforcement Learning** (B.S. 4-1)
-* **Linear Algebra & Application** (B.S. 4-1)
-* **Probability Theory** (B.S. 4-1)
-* **Genomics** (B.S. 4-1)
 
 ## 💻Tech Stack
 <div align=center> 
